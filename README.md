@@ -1,3 +1,5 @@
+video link https://drive.google.com/file/d/1B_QxIUWUj3A2gNxBWFF51nPHEn0Pwkhv/view?usp=sharing
+
 # HalleyX Frontend
 
 A modern e-commerce platform built with Next.js, featuring beautiful styling with Tailwind CSS and powerful admin features.
